@@ -1,0 +1,4 @@
+SolutionComponents:
+  Component:
+  - '@path': /environmentvariabledefinitions/git_TestEnvVariable
+  - '@path': /publishers/GitDemo
