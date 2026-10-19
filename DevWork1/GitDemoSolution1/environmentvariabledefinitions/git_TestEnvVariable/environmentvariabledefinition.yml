@@ -1,5 +1,6 @@
 environmentvariabledefinition:
   '@schemaname': git_TestEnvVariable
+  defaultvalue: Default Value 123
   displayname:
     '@default': Test Env Variable
     label:
